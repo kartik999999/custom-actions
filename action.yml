@@ -1,4 +1,4 @@
-name: 'calc_action'
+name: 'calculator_action'
 description: 'arithmetic calculations' 
 
 inputs:
